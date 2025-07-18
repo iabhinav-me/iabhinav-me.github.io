@@ -1,0 +1,12 @@
+{
+  "hosting": {
+    "rewrites": [],
+    "redirects": [
+      {
+        "source": "/**",
+        "destination": "https://iabhinav.me",
+        "type": 301
+      }
+    ]
+  }
+}
